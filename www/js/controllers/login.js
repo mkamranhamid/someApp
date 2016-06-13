@@ -1,0 +1,5 @@
+
+starter.
+  controller('loginCtrl',function(){
+
+})
